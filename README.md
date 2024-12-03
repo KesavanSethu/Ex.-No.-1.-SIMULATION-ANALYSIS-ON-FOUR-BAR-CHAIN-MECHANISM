@@ -54,9 +54,15 @@
 
 ## Output:
 
+![Kesavan EXP 1-2](https://github.com/user-attachments/assets/7e81b06c-9227-401d-8a52-5fcb8b30829b)
 
-### Name:
-### Register Number: 
+![Kesavan EXP 1-1](https://github.com/user-attachments/assets/29e472ef-94ed-4ca2-ae69-9019407442a3)
+
+![Kesavan EXP 1-3](https://github.com/user-attachments/assets/bef6d2e9-34d7-474c-8fb4-476da4a6e405)
+
+
+### Name: Kesavan S
+### Register Number: 24003333
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
